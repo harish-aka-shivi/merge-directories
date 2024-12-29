@@ -1,7 +1,7 @@
 # Context
 A simple script to merge the files in a directory in one file.
 
-For example I had a lot of files in my directory which I wanted to converge in one file.
+For example I had a lot of files in my directory which I wanted to converge in one file and delete all other files.
 
 Before running the script
 /dir
